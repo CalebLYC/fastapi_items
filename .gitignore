@@ -4,3 +4,4 @@ routers/__pycache__
 internal/__pycache__
 data/__pycache__
 tests/__pycache__
+main.py
