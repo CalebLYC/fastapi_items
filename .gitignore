@@ -1,0 +1,6 @@
+./sql_app.db
+./__pycache__
+./routers/__pycache__
+./internal/__pycache__
+./data/__pycache__
+./tests/__pycache__

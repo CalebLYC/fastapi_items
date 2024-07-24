@@ -1,0 +1,10 @@
+#pip install -r requirements.txt pour installer ces dep
+
+fastapi
+uvicorn
+bcrypt
+passlib
+sqlalchemy
+python-multipart
+pydantic
+jwt
